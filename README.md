@@ -13,4 +13,4 @@ deploying
 
 ### mirriored on *gh-pages* branch
 
-```git push -f origin master:gh-pages```
+- ```git push -f origin master:gh-pages```
