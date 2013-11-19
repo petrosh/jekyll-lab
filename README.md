@@ -13,4 +13,5 @@ deploying
 
 ### mirriored on *gh-pages* branch
 
-- ```git push -f origin master:gh-pages```
+- ```git push -f origin master:gh-pages```  
+- `git remote set-url origin git@github.com:petrosh/jekyll-lab.git` to avoid password input
