@@ -1,2 +1,9 @@
 .DS_Store
 .netrc
+
+# Compiled site
+_site/
+
+# Projects
+projects/
+!projects/index.html
