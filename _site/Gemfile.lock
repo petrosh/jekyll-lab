@@ -46,6 +46,7 @@ GEM
     maruku (0.6.1)
       syntax (>= 1.0.0)
     multipart-post (1.2.0)
+    netrc (0.7.7)
     octokit (2.6.0)
       sawyer (~> 0.5.1)
     posix-spawn (0.3.6)
@@ -73,4 +74,5 @@ DEPENDENCIES
   git!
   github-pages
   jekyll
+  netrc
   octokit

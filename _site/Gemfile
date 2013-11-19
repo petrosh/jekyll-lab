@@ -2,10 +2,11 @@ source 'https://rubygems.org'
 gem 'github-pages'
 
 # The Jekyll gem 
-gem "jekyll"
+gem 'jekyll'
 
 # Github API (octokit plugin)
-gem "octokit"
+gem 'octokit'
+gem 'netrc'
 
 # Git gem
-gem "git", :git=>'git@github.com:schacon/ruby-git'
+gem 'git', :git=>'git@github.com:schacon/ruby-git'

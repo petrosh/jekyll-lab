@@ -29,8 +29,7 @@ module Jekyll
 		
 			puts "Generating projects"
 			# create octokit client
-			#client = Octokit::Client.new(:netrc => true, :access_token => ENV['GITHUB_TOKEN'])			
-			client = Octokit::Client.new :netrc => true
+			client = Octokit::Client.new(:netrc => true, :access_token => ENV['GITHUB_TOKEN'])			
 		
 			array = Array.new
 			if site.config.key? 'projects'

@@ -1,0 +1,5 @@
+permalink: /:categories/:title/
+
+projects:
+  - petrosh/jekyll-lab
+  - petrosh/jekyll-site
